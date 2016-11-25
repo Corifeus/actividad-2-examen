@@ -1,4 +1,4 @@
-//Flot Line Chart
+//Cabecera modificada
 $(document).ready(function() {
 
     var offset = 0;
