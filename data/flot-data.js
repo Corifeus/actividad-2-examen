@@ -1,4 +1,4 @@
-//Cabecera modificada
+//banner cambiado
 $(document).ready(function() {
 
     var offset = 0;
