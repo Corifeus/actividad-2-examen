@@ -1,4 +1,4 @@
-//banner cambiado
+//estilo del menú color verde
 $(document).ready(function() {
 
     var offset = 0;
